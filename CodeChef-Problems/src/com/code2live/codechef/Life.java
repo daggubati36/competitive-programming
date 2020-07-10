@@ -1,0 +1,19 @@
+package com.code2live.codechef;
+
+import java.util.Scanner;
+
+public class Life {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int i = 0;
+		while (sc.hasNext()) {
+			i = sc.nextInt();
+			if (i != 42)
+				System.out.println(i);
+			else
+				break;
+		}
+		int n = sc.nextInt();
+		sc.close();
+	}
+}

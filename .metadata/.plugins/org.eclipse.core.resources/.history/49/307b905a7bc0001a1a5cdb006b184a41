@@ -1,0 +1,11 @@
+package com.code2live.codechef;
+
+public class Demo {
+	public static void main(String[] args) {
+		double a = 0;
+		long b = 0;
+		
+		a = Math.sqrt(10000)
+		System.out.println(Math.round(Math.sqrt(10000)));
+	}
+}

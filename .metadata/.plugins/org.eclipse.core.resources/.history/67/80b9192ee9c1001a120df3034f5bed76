@@ -1,0 +1,7 @@
+package com.code2live.codechef;
+
+public class StringDemo {
+	public static void main(String[] args) {
+		String readLine = "61 methods, 61 passed, 10 skipped, 10 failed";
+	}
+}
