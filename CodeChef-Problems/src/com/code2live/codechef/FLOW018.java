@@ -48,9 +48,13 @@ public class FLOW018 {
 
 		while (t-- > 0) {
 			int n = r.nextInt();
-			int rs = 0;
-			
+			int rs = 1;
 
+			while (n >= 1) {
+				rs *= n;
+				--n;
+			}
+			System.out.println(rs);
 		}
 	}
 }
