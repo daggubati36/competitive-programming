@@ -1,7 +1,0 @@
-package com.code2live.codechef;
-
-public class Demo {
-	public static void main(String[] args) {
-		System.out.printf(Math.round(Math.sqrt(10000)));
-	}
-}
