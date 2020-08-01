@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;CodeChef&apos; to &apos;CodeChef-Problems&apos;" description="Rename resource &apos;CodeChef&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/CodeChef" name="CodeChef-Problems" stamp="1594373325448" updateReferences="true"/>
-</session>
